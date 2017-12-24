@@ -20,7 +20,8 @@ $(document).ready(function() {
         /*customPaging: function(slick,index) {
                 return '<a>' + index + '</a>';
             },*/
-        infinite: false,
+        infinite: true,
+        autoplay: true,
         speed: 300,
         slidesToShow: 3,
         slidesToScroll: 1,
@@ -61,7 +62,8 @@ $(document).ready(function() {
     $('.projects-slider').slick({
         dots: true,
         appendDots:$('.projects-slider-pagination__dots'),
-        infinite: false,
+        infinite: true,
+        autoplay: true,
         speed: 300,
         slidesToShow: 3,
         slidesToScroll: 1,
