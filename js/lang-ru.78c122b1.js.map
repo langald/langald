@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/lang/ru.js"],"names":["__webpack_exports__","greeting","name"],"mappings":"wGAAAA,EAAA,YACEC,SAAU,SACVC,KAAM","file":"js/lang-ru.78c122b1.js","sourcesContent":["export default {\r\n  greeting: 'Привет',\r\n  name: 'Джимми'\r\n}"],"sourceRoot":""}
