@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[0],{eZ64:function(e,n,i){"use strict";i.r(n),n["default"]={greeting:"Guten Tag",name:"Her Jimmy"}}}]);
-//# sourceMappingURL=lang-de.b5bb47c0.js.map

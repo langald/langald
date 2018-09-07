@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/lang/de.js"],"names":["__webpack_exports__","greeting","name"],"mappings":"wGAAAA,EAAA,YACEC,SAAU,YACVC,KAAM","file":"js/lang-de.b5bb47c0.js","sourcesContent":["export default {\r\n  greeting: 'Guten Tag',\r\n  name: 'Her Jimmy'\r\n}"],"sourceRoot":""}
